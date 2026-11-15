@@ -69,7 +69,7 @@
     var html =
       '<header class="hero">' +
         '<div class="hero-chef">' + PZ.chefSVG('smile') + '</div>' +
-        '<div class="hero-text"><h1 class="sign">פיצריית השברים</h1>' +
+        '<div class="hero-text"><h1 class="sign">בוא נשחק פיצה</h1>' +
         '<p>ברוכים הבאים! הלקוחות מחכים להזמנות. בחרו שלב והתחילו לעבוד.</p></div>' +
         '<div class="hero-stats"><div class="stat"><span class="coin" aria-hidden="true"></span> קופה: <b>' + save.coins + '</b></div>' +
         '<div class="stat">🍕 פיצות שהרווחתי: <b>' + total + '</b></div>' +
